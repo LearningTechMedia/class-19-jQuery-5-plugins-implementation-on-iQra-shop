@@ -1,0 +1,1 @@
+# class-19-jQuery-5-plugins-implementation-on-iQra-shop
